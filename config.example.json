@@ -1,12 +1,17 @@
 {
     "battalions": {
-        "test": {
-            "name": "test",
-            "channel-name": "test",
-            "role-name": "test"
+        "battalion name": {
+            "name": "battallion name",
+            "channel-name": "channel name",
+            "role-name": "role name"
+        },
+        "battalion 2 name": {
+            "name": "battallion 2 name",
+            "channel-name": "channel 2 name",
+            "role-name": "role 2 name"
         }
     },
-    "interview-forum": "interview-forum",
-    "pledge-thread": "11mzbok",
-    "redirect-base-url": "http://localhost"
+    "interview-forum": "interview forum name",
+    "pledge-thread": "pledge thread id",
+    "redirect-base-url": "redirect base url"
 }

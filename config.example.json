@@ -1,0 +1,12 @@
+{
+    "battalions": {
+        "test": {
+            "name": "test",
+            "channel-name": "test",
+            "role-name": "test"
+        }
+    },
+    "interview-forum": "interview-forum",
+    "pledge-thread": "11mzbok",
+    "redirect-base-url": "http://localhost"
+}
